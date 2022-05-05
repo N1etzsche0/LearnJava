@@ -1,2 +1,2 @@
 # LearnJava
-## 日常学习Java
+## 日常Java学习
